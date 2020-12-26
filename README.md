@@ -1,2 +1,2 @@
 # aws-lambda-container
-AWS Lambda – Container
+AWS Lambda – Containerized
