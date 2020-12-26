@@ -1,0 +1,3 @@
+werkzeug
+flask==1.1.2
+serverless-wsgi==1.7.6
